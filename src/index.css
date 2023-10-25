@@ -21,8 +21,8 @@ code {
   background-color: #f83079c9;
   color: #fff;
   text-align: center;
-  width: 80%; /* Set the width to 80% */
-  margin: 0 auto; /* Center the banner horizontally */
+  width: 80%; 
+  margin: 0 auto;
 }
 
 .banner-box {
@@ -38,8 +38,8 @@ code {
   top: 0;
   right: 0;
   bottom: 0;
-  width: 1px; /* Width of the vertical line */
-  background-color: #fff; /* Color of the vertical line */
+  width: 1px;
+  background-color: #fff;
 }
 
 .banner-box {
@@ -80,10 +80,9 @@ code {
   border: 1px solid #ccc;
   position: relative;
   z-index: 2;
-  color: black; /* Set the font color to black */
+  color: black; 
 }
 
-/* Close button */
 .close {
   position: absolute;
   top: 10px;
@@ -112,19 +111,16 @@ code {
   margin: 0 auto;
   width: 100%;
   padding: 10px;
-  text-align: left; /* Align the title to the top left */
+  text-align: left;
 }
 
 .table-title {
   margin: 10px;
-  /* Keep the text-align left if you want the title to be top-left */
 }
 
-/* Style the individual tables if needed */
 .custom-table {
   justify-content: center;
-  width: 100%; /* Make the table fill the container */
-  /* Rest of your existing table styles */
+  width: 100%;
 }
 
 
